@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ατομικη εργασια 2 μοναδων Π19032", "Ατομικη εργασια 2 μοναδων Π19032\Ατομικη εργασια 2 μοναδων Π19032.csproj", "{5CC1F8B2-54C6-454D-BE37-5C05149CB051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CC1F8B2-54C6-454D-BE37-5C05149CB051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC1F8B2-54C6-454D-BE37-5C05149CB051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC1F8B2-54C6-454D-BE37-5C05149CB051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC1F8B2-54C6-454D-BE37-5C05149CB051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1A69EE8-4CB7-4E92-A183-0266A6BCA9F0}
+	EndGlobalSection
+EndGlobal
